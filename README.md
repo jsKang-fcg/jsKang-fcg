@@ -11,5 +11,7 @@
 
 ![jsKang-fcg's github stats](https://github-readme-stats.vercel.app/api?username=jsKang-fcg&show_icons=true&theme=default)
 
+![jsKang-fcg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsKang-fcg&show_icons=true&bg_color=0000000)
+
 
 </div>
