@@ -11,7 +11,5 @@
 
 ![Jinseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsKang-fcg&show_icons=true&theme=radical)
 
-![Jinseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsKang-fcg&show_icons=true&theme=radical)
-
 
 </div>
