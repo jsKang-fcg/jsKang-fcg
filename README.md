@@ -9,7 +9,7 @@
 
 ### 📊 GitHub Stats
 
-![jsKang-fcg's github stats](https://github-readme-stats.vercel.app/api?username=jsKang-fcg&show_icons=true&theme=omni)
+![Jinseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsKang-fcg&show_icons=true&theme=radical)
 
 
 </div>
